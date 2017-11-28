@@ -1,0 +1,7 @@
+V:\DEV\VSworkspace\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+V:\DEV\VSworkspace\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+V:\DEV\VSworkspace\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+V:\DEV\VSworkspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+V:\DEV\VSworkspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+V:\DEV\VSworkspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+V:\DEV\VSworkspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
