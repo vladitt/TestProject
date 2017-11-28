@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, world! Type some string!");
+            Console.WriteLine("Hello, world! Master Branch Type some string!");
             string a = Console.ReadLine();
             Console.WriteLine("You have been typing the string ':" + a + "' type other string or exit for stopping the application!");
             while (true)
